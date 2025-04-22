@@ -18,6 +18,7 @@ if (!isset($_SESSION['Admin-name'])) {
 	        integrity="sha1256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
 	        crossorigin="anonymous">
 	</script>
+	.
     <script type="text/javascript" src="js/bootbox.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.js"></script>
 	<script src="js/manage_users.js"></script>
